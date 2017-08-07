@@ -16,7 +16,7 @@
 title: Ryan Kleeberger
 email: rylklee@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Analysis of what I'm doing, how I'm doing it, and where I think it will get me.
+  What I'm doing, how I'm doing it, and where I think it will get me. Practical systems and benchmarks exposed.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryanklee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ryanklee
