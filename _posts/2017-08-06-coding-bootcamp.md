@@ -39,11 +39,11 @@ Note the in image above the sums of hours devoted to each activity. These let me
 
 For the moment, the big variable I'm attempting to get under control is the **deep work** time block, which is time reserved exclusively for attending to deliberative practice and study devoted my active goal in life.
 
-Deep work is a concept popularized by Cal Newport in [his book of the same name](http://a.co/gHXB88D). The idea is pretty straightforward: when you want to think hard about something, get rid of all distractions. No phone, no internet, no side-chatter. Just you, the task, and time to do it. ( There's quite a bit more to it, and I enthusiastically recommend the book, but for a great intro, check out [Ezra Klein's interview with Newport](https://www.vox.com/2017/4/21/15382282/cal-newport-taking-life-back-technology).)
+Deep work is a concept popularized by Cal Newport in [his book of the same name](http://a.co/gHXB88D). The idea is pretty straightforward: when you want to think hard about something, get rid of all distractions. No phone, no internet, no side-chatter. Just you, the task, and time to do it. (There's quite a bit more to it, and I enthusiastically recommend the book, but for a great intro, check out [Ezra Klein's interview with Newport](https://www.vox.com/2017/4/21/15382282/cal-newport-taking-life-back-technology).)
 
 At the moment, the goal these hours will be devoted to are tasks aimed at  completing The Software Guild's online course material. 
 
-My block schedule shows me that the time apportionee to **deep work** is slightly exceeding my goal of 25 hours a week. This rubric would put me on track to meet my goal of completing the course in 8 months (by March 2018).
+My block schedule shows me that the time apportione to **deep work** is slightly exceeding my goal of 25 hours a week. This rubric would put me on track to meet my goal of completing the course in 8 months (by March 2018).
 
 Now, this assumes my hours are equal to the average hour used in The Software Guild's own claim that the course takes most people 10 months to complete. This could turn out not to be the case. 
 
