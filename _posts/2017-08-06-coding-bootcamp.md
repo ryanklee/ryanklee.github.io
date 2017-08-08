@@ -43,7 +43,7 @@ Deep work is a concept popularized by Cal Newport in [his book of the same name]
 
 At the moment, the goal these hours will be devoted to are tasks aimed at  completing The Software Guild's online course material. 
 
-My block schedule shows me that the time apportione to **deep work** is slightly exceeding my goal of 25 hours a week. This rubric would put me on track to meet my goal of completing the course in 8 months (by March 2018).
+My block schedule shows me that the time apportioned to **deep work** is slightly exceeding my goal of 25 hours a week. This rubric would put me on track to meet my goal of completing the course in 8 months (by March 2018).
 
 Now, this assumes my hours are equal to the average hour used in The Software Guild's own claim that the course takes most people 10 months to complete. This could turn out not to be the case. 
 
