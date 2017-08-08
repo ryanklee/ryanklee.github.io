@@ -27,7 +27,7 @@ I've created a spreadsheet that carves up every day into blocks of 15 min increm
 
 The activities indicated in the key are (theoretically) a non-negotiable presence in my life, either because they are infrastructural (like driving or sleeping) or because they are supremely valuable to reaching my goals (like deep work).  
 
-Their positioning in the block schedule is effective as heavy, fixed, obdurate obligations, movable only under heavy structural pressure, catastrophe, or as a consequence of deliberate, planned reorganization. 
+Their positioning in the block schedule is effectively heavy, fixed, and obdurate, movable only under heavy structural pressure, catastrophe, or as a consequence of deliberate, planned reorganization. 
 
 Hence, **BLOCKS**. If someone kicks them, they should expect to break a toe.
 
@@ -35,7 +35,7 @@ On the other hand, this is a work in progress. I fully expect to make modificati
 
 ### Slaying my entropy monsters
 
-Note the in image above the sums of hours devoted to each activity. These let me quantify how much of my time is being devoted to what activity.
+Note in image above the sums of hours devoted to each activity. These let me quantify how much of my time is being devoted to what activity.
 
 For the moment, the big variable I'm attempting to get under control is the **deep work** time block, which is time reserved exclusively for attending to deliberative practice and study devoted my active goal in life.
 
