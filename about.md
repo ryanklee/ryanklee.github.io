@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 I'm in very early stages of making a career switch into software development. Thia blog is one tool among many I'm employing to help me make that switch, precarious as it is.

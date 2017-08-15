@@ -1,8 +1,15 @@
 ---
-layout: post
 title: Coding Bootcamp and Block Scheduling
-date: 2017-08-06 10:05:45 -0500
-categories: the software guild, coding bootcamp, deep work
+date: 2017-08-06 15:05:45 Z
+categories:
+- the
+- software
+- guild,
+- coding
+- bootcamp,
+- deep
+- work
+layout: post
 ---
 
 *For a general introduction, please see the [About Page](/about).*
