@@ -1,0 +1,23 @@
+---
+title: Ryan Kleeberger
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: rylklee@gmail.com
+description: 'What I''m doing, how I''m doing it, and where I think it will get me.
+  Practical systems and benchmarks exposed.
+
+'
+baseurl: ''
+url: https://ryanklee.github.io
+twitter_username: ryanklee
+github_username: ryanklee
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins_dir:
+- jekyll-feed
